@@ -50,7 +50,6 @@ Provides a high-level summary of the Nigerian financial-market analysis using KP
 - Number of Sectors
 - Latest Monetary Policy Rate
 - Average Inflation
-- Total Trading Volume
 
 ![Executive Overview](../Executive%20Overview.png)
 
@@ -86,7 +85,6 @@ The dashboard includes measures such as:
 - Number of Sectors
 - Latest MPR
 - Average Inflation
-- Total Trading Volume
 - Average Stock Price
 - Average 2-Year Bond Yield
 - Average 10-Year Bond Yield
